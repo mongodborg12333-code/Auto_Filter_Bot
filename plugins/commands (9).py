@@ -1,4 +1,4 @@
-importos
+import os
 import re, sys
 import json
 import base64
